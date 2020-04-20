@@ -49,10 +49,10 @@ Here is description of all the Routes used in Api.
    `src="data: image/jpg; base64, img";`
 ## Update Record
 
-   `POST /api/update/hotel_name`
+   `POST /api/update/hotel_name`                                                  
    `http://localhost:3000/api/update/blue haven`
    
 ## Delete Record
     
-   `DELETE /api/remove/hotel_name`
+   `DELETE /api/remove/hotel_name`                                                         
    `http://localhost:3000/api/remove/blue haven`
