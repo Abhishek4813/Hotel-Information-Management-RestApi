@@ -1,0 +1,9 @@
+/*
+This is a dummy js file for the deployment purpose
+
+while deployment the empty folders will be ignored
+
+for the purpose the dummy file prevent the folder to left out
+
+folder contain the image file read by multer.
+*/
